@@ -1,26 +1,17 @@
 # Site navigation links
 
-- title: About This Theme
+- title: Unlocking Your Creativity
   url: /
   excerpt:
   image:
 
-- title: Quick Start Guide
-  url: /quickstart
+- title: Syllabus
+  url: /syllabus
   excerpt:
   image:
 
-- title: Blog
+- title: Class Blog
   url: /blog
   excerpt:
   image:
   
-- title: Theme Docs
-  url: /docs
-  excerpt:
-  image:
-  
-- title: Example Collection
-  url: https://idahatiu.github.io
-  excerpt:
-  image:

@@ -40,30 +40,30 @@
 #---------------------
 
 # Title of your website
-title: "Community-Archive Jekyll Theme"
+title: "Unlocking Your Creativity"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "An easy-to-use Jekyll Theme for Github Pages"
+subtitle: "X152 Spring 2024"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Community Archive Jekyll Github Pages theme for communities with heirlooms, stories or other artifacts to save for historical purposes."
+description: ""
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "Kalani Craig"
-authorname : "Kalani Craig"
+author: "Sean Purcell"
+authorname : "Sean Purcell"
 sitelogo: site_logo.jpg
 
 # What year did you start up this community project?
-sitedate : 2022
+sitedate : 2024
 
 # Other community social media. Leave blank if you don't have these.
-email : "kalani [at] kalanicraig.com"
-website : "https://www.kalanicraig.com/"
-twitter : kalanicraig
-github : kalanicraig
+email : 
+website : 
+twitter : 
+github : 
 facebook : 
-instagram : kalanicraig
+instagram : 
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
@@ -77,13 +77,13 @@ google_g4_analytics_id: G-LVREG1Y1DT
 # You can see these font choices in action at https://community-archive.kalanicraig.com/docs/
 # Uncomment the line for the font you like. Comment out all of the other lines.
 
-#fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
+fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
 #fontchoice: baloo # A clean sans-serif font with a playful rounded sans-serif accent
 #fontchoice: quattrocento # A modern sans-serif font with classic serif accents
 #fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
 #fontchoice: roboto # A clean sans-serif font with simple serif accents
 #fontchoice: slab # A funky slab font with clean sans-serif accents
-fontchoice: source # A modern serif font with clean sans-serif accents
+#fontchoice: source # A modern serif font with clean sans-serif accents
 
 # Choose the COLORS you'd like to use.
 # You can see these color choices in action at https://community-archive.kalanicraig.com/docs/
@@ -93,9 +93,9 @@ fontchoice: source # A modern serif font with clean sans-serif accents
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: leafgreen # Leafy green and medium brown
 #colorchoice: marigold # Near-black with marigold yellow
-#colorchoice: navy # Navy with bright teal and grey
+colorchoice: navy # Navy with bright teal and grey
 #colorchoice: red # Black, crimson and grey
-colorchoice: tan # Tan and deep brown with flame-bright orange
+#colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
 
 ##############################################
