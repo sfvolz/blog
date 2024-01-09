@@ -40,28 +40,28 @@
 #---------------------
 
 # Title of your website
-title: "The Tuberculosis Specimen"
+title: "Unlocking your Creativity"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "The Dying Body and its Use in the War Against the 'Great White Plague'"
+subtitle: "Class Blog for Spring 2024"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "This dissertation examines the history of medical research into tuberculosis."
+description: ""
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "Sean Purcell"
-authorname : "Sean Purcell"
+author: ""
+authorname : ""
 sitelogo: 
 
 # What year did you start up this community project?
-sitedate : 2023
+sitedate : 2024
 
 # Other community social media. Leave blank if you don't have these.
 email : "spurcel [at] iu [dot] edu"
 website : "seanpurcell.net"
 twitter : 
-github : TuberculosisSpecimen
+github : X151Blog
 facebook : 
 instagram : 
 
@@ -77,22 +77,22 @@ google_g4_analytics_id: G-LVREG1Y1DT
 # You can see these font choices in action at https://community-archive.kalanicraig.com/docs/
 # Uncomment the line for the font you like. Comment out all of the other lines.
 
-#fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
+fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
 #fontchoice: baloo # A clean sans-serif font with a playful rounded sans-serif accent
 #fontchoice: quattrocento # A modern sans-serif font with classic serif accents
 #fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
 #fontchoice: roboto # A clean sans-serif font with simple serif accents
 #fontchoice: slab # A funky slab font with clean sans-serif accents
-fontchoice: source # A modern serif font with clean sans-serif accents
+#fontchoice: source # A modern serif font with clean sans-serif accents
 
 # Choose the COLORS you'd like to use.
 # You can see these color choices in action at https://community-archive.kalanicraig.com/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
 #colorchoice: dusk # Dusky purple and olive green
-#colorchoice: lavenderred # Purple-grey with orange-red
+colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: leafgreen # Leafy green and medium brown
-colorchoice: marigold # Near-black with marigold yellow
+#colorchoice: marigold # Near-black with marigold yellow
 #colorchoice: navy # Navy with bright teal and grey
 #colorchoice: red # Black, crimson and grey
 #colorchoice: tan # Tan and deep brown with flame-bright orange
@@ -144,7 +144,7 @@ collections:
 # This URL is the main address for absolute links. This will usually be blank.
 url: 
 # This will usually be blank. If this archive will be in a folder (kalanicraig.com/community-archive/) instead of in its own main site (idahatiu.github.io) add that folder name here with a slash / in front of it (e.g. /communityarchive).
-baseurl: '/diss'
+baseurl: '/blog'
 
 # This URL points directly to the images directory. It needs a slash at the end.
 #
