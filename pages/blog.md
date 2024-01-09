@@ -4,6 +4,3 @@ layout: collection
 permalink: /blog
 ---
 
-Stay up to date on our community activities here.
-
-
