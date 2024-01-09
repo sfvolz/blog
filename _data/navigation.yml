@@ -1,17 +1,12 @@
 # Site navigation links
 
-- title: How to Use this Site
-  url: /faq
+- title: Welcome to the Blog
+  url: /welcome
   excerpt:
   image:
 
-- title: Dissertation
-  url: /dissertation
-  excerpt:
-  image:
-
-- title: Images
-  url: /collection
+- title: Syllabus
+  url: /syllabus
   excerpt:
   image:
   
