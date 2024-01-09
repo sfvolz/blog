@@ -1,17 +1,21 @@
 # Site navigation links
 
-- title: Unlocking Your Creativity
-  url: /
+- title: How to Use this Site
+  url: /faq
   excerpt:
   image:
 
-- title: Syllabus
-  url: /syllabus
+- title: Dissertation
+  url: /dissertation
   excerpt:
   image:
 
-- title: Class Blog
-  url: /blog
+- title: Images
+  url: /collection
   excerpt:
   image:
   
+- title: Blog
+  url: /blog
+  excerpt:
+  image:

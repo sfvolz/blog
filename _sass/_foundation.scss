@@ -2206,7 +2206,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: Helvetica Neue, "Helvetica", Roboto, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   color: inherit;
@@ -5312,6 +5312,16 @@ a.thumbnail {
   border-bottom: dotted 1px #8a8a8a;
   font-weight: bold;
   cursor: help; }
+
+.tooltip-mouseover:hover {position: absolute;
+  top: calc(100% + 0.6495rem);
+  z-index: 1200;
+  max-width: 10rem;
+  padding: 0.75rem;
+  border-radius: 0;
+  background-color: #0a0a0a;
+  font-size: 80%;
+  color: #fefefe; }
 
 .tooltip {
   position: absolute;
