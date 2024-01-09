@@ -1,10 +1,5 @@
 # Site navigation links
 
-- title: Welcome to the Blog
-  url: /welcome
-  excerpt:
-  image:
-
 - title: Syllabus
   url: /syllabus
   excerpt:
