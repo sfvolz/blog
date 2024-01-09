@@ -1,5 +1,5 @@
 ---
-title: Community Updates and Blog
+title: Unlocking Your Creativity Blog
 layout: collection
 permalink: /blog
 ---
