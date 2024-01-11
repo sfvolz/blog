@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Responding to The Joys of Being an Absolute Beginner
+title: Responding to The Joys of Being an Absolute Beginner Something Else!
 excerpt: 
 author: sean-purcell
 pullquote:
