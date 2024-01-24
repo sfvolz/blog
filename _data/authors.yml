@@ -6,7 +6,7 @@ sean-purcell:
   twitter: 
   github: 
   bio: Sean Purcell is a PhD Candidate at Indiana University's Media School. He researches the history of medicine in all of its horrible, exploitative formations.
-  image: 
+  image:
 
 kalani-craig:
   name: Kalani Craig
@@ -14,7 +14,7 @@ kalani-craig:
   twitter: 
   github: 
   bio: 
-  image: 
+  image:
 
 anna-wrasse:
   name: Anna
@@ -25,115 +25,131 @@ anna-wrasse:
   image:
 
 eissa-alfalhi:
-  Name: Eissa AlFalahi
-  Website:
-  Twitter:
-  Github: alfalahi0
-  Bio:
+  name: Eissa AlFalahi
+  website:
+  twitter:
+  github: alfalahi0
+  bio:
+  image:
 
 isabella-aranda:
-  Name: Isabella Aranda
+  name: Isabella Aranda
   website:
   Twittier:
-  GitHub:
-  Bio:
-  
+  github:
+  bio:
+  image:
+
 luca-arive:
-  Name: Luca
-  Website: lucaarive.net
+  name: Luca
+  website: lucaarive.net
   twitter:
-  GitHub: lucaarive
-  Bio: 
-  
+  github: lucaarive
+  bio: 
+  image:
+
 samantha-cortes:
-  Name: Samantha Cortes
-  Website:
-  Twitter:
-  GitHub:
-  Bio:
-  
+  name: Samantha Cortes
+  website:
+  twitter:
+  github:
+  bio:
+  image:
+
 amir-desai:
-  Name: Amir Desai
-  Website: AmirDesai.net
-  Twitter:
-  Github username: AmirDesai
-  Bio: Amir is a student in class today.
-  
+  name: Amir Desai
+  website: AmirDesai.net
+  twitter:
+  github username: AmirDesai
+  bio: Amir is a student in class today.
+  image:
+
 elizabeth-doulas:
-  Name: Elizabeth Doulas
-  Website:
-  Twitter:
-  Github:
-  Bio: I am a sophomore studying Information Systems, Operations Management, and Business Analytics.
-  
+  name: Elizabeth Doulas
+  website:
+  twitter:
+  github:
+  bio: I am a sophomore studying Information Systems, Operations Management, and Business Analytics.
+  image:
+
 wade-hall:
-  Name: Wade Hall
+  name: Wade Hall
   website: wadehall2004.net
   twitter:
   github:  
-  Bio: "Psalms 119:105"
-  
+  bio: "Psalms 119:105"
+  image:
+
 zoe-hatfield:
   name: Zoe Hatfield
   website: 
   twitter:
   github: zoehatfield
   bio:
-  
+  image:
+
 alaina-johnson:
-  Name: Alaina Johnson
-  Website: https://www.linkedin.com/in/alaina-johnson-471878212/
-  Twitter:
-  Github: alainajohnsonn
-  Bio: Freshman at Indiana University Studying commercial real estate.
-  
+  name: Alaina Johnson
+  website: https://www.linkedin.com/in/alaina-johnson-471878212/
+  twitter:
+  github: alainajohnsonn
+  bio: Freshman at Indiana University Studying commercial real estate.
+  image:
+
 khushi-monga:
-  Name: Khushi Monga
-  Website: khushimonga.com
-  Twitter: 
+  name: Khushi Monga
+  website: khushimonga.com
+  twitter: 
   github: 
-  Bio: 
-  
+  bio: 
+  image:
+
 john-sipchen:
-  Name: John Sipchen
-  Website: johnsipchen.net
+  name: John Sipchen
+  website: johnsipchen.net
   twitter: 
   github: jsipchen
-  Bio:
-  
+  bio:
+  image:
+
 layla-sirdah:
-  Name: Layla Sirdah
+  name: Layla Sirdah
   website: laylasirdah.net
   twitter:
   github:
   bio:
-  
+  image:
+
 sara-thompson:
-  Name: Sara Thompson
-  Website: 
-  Twitter: 
-  Github: sarrthom
-  Bio: 
-  
-rio-walkine:
-  Name: Rio Walkine
-  website: riowalk.com
-  Github:
-  Bio: MUSIC ALL 2024
-  
-amani-xayyachack:
-  Name: A.J. Xayyachack
-  website: amanixayyachack.net
-  twitter: 
-  Github: fridgerooster
-  Bio: 
-  
-anthony-guestscott:
-  Name: Anthony Guest-Scott
+  name: Sara Thompson
   website: 
   twitter: 
-  Github: 
-  Bio: 
+  github: sarrthom
+  bio: 
+  image:
+
+rio-walkine:
+  name: Rio Walkine
+  website: riowalk.com
+  github:
+  bio: MUSIC ALL 2024
+  image:
+
+amani-xayyachack:
+  name: A.J. Xayyachack
+  website: amanixayyachack.net
+  twitter: 
+  github: fridgerooster
+  bio: 
+  image:
+
+anthony-guestscott:
+  name: Anthony Guest-Scott
+  website: 
+  twitter: 
+  github: 
+  bio: 
+  image:
 
 azzam-albasri:
   name: Azzam Al Basri
@@ -142,3 +158,18 @@ azzam-albasri:
   github:
   bio:
   image:
+
+jose-rojas:
+  name: Jose Rojas
+  website: 
+  twitter: 
+  github: Jose-Roja
+  bio: Study clicial psychology
+  image:
+
+wyatt-stratton:
+  name: Wyatt Stratton 
+  website:
+  twitter:
+  github: Wstratton7
+  bio:
