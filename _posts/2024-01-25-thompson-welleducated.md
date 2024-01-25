@@ -2,7 +2,7 @@
 layout: post
 title: Reflection on "What it Means to Be Well-Educated
 excerpt: A personal take on defining the term well-educated in our current society.
-author: Sara-Thompson
+author: sara-thompson
 pullquote: In a world where being educated means everything, what does it mean to be well-educated?
 ---
 <p>In a world where being educated means everything, what does it mean to be well educated? Current society tends to think that to be well-educated, you have to have the best of the best. You have to attend a well-known school, obtain advanced degrees, score well on standardized tests, and know everything there is to know. In “What Does it Mean to Be Well Educated”, Alfie Kohn urges his readers to rethink their definition of a “well-educated person”. Instead of generalizing the term and giving it one simple definition, he suggests that we allow “well-educated” to be defined individually. When we look at it, each person qualifies differently: some people define it through attending top schools, while others define it based on whether a person continues to learn and educate themselves throughout their life. Furthermore, someone else could even define it based on the career or power that they hold in society. Ultimately, Kohn wants his readers to understand that the term “well-educated” is subjective, and we must allow it to stay that way.</p>
