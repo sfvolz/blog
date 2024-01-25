@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Reflection on "What it Means to Be Well-Education]
+title: [Reflection on "What it Means to Be Well-Educated]
 excerpt: [A personal take on defining the term well-educated in our current society.]
 author: [Sara-Thompson]
 pullquote: [In a world where being educated means everything, what does it mean to be well-educated?]
