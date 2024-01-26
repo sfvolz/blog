@@ -1,9 +1,9 @@
 ---
 layout:post
-Title:Virginia Wolf Blog
+Title: Virginia Wolf Blog
 excerpt: "A Room of One's Own"
-Author: Virginia Wolf
-pullquote: "What Does it Mean to be Educated"
+Author: rio-walkine
+pullquote:
 ---
 The excerpt of Virginia Wolf’s “A Room of One’s Own” is a very complex article that goes over the hardships and struggles that female writers and actors faced during the Elizabethan era. She really dives deep into how societal preferences basically set women up for failure, especially when trying to make it into the acting industry or the writing field as well. I believe that her overall message is that society was heavily influenced by mass opinions and affected the opportunities for women in particular and allowed for males to become more powerful causing more societal issues along the way shaping how they view roles and intelligence. She goes over the importance of money and hints that it prevents women from having a room of their own. Since money was basically power and women didn’t have either during this time their creativity had almost been washed out throughout the years. The author also seeks the essential truth but later comes to the conclusion that no such truth exists. She talked about a subject being highly controversial and one can only show how they came to that specific opinion and not the truth. Her overall thesis is that there is a prominent underinvestment of society in women’s education and a shortage of opportunities for women to tell their own life stories and with that comes the need to have intellectual and financial freedom to write. She also uses Shakespeare a lot and references many other professors quoting them and relating their mindsets to how societal opinions have been shaped over time. 
 1.	The importance of financial freedom and money- without it, women will remain underneath the more creative males and opinions will continue to generate in the male favor. More access to writing material with more money as well as writing novels instead of poetry. Overall, giving the sense that they were poor and less successful writers at the time.
