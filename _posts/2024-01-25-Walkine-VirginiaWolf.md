@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 Title: Virginia Wolf Blog
 excerpt: "A Room of One's Own"
 Author: rio-walkine
