@@ -1,8 +1,8 @@
 ---
 layout: post
-Title: Virginia Wolf Blog
+title: Virginia Wolf Blog
 excerpt: "A Room of One's Own"
-Author: rio-walkine
+author: rio-walkine
 pullquote:
 ---
 
