@@ -2,7 +2,7 @@
 layout: post
 title: Virginia Wolf Blog
 excerpt: "A Room of One's Own"
-author: Jose-Rojas
+author: jose-rojas
 pullquote:
 --
 
