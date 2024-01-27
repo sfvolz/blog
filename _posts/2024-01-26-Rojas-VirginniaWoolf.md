@@ -4,7 +4,7 @@ title: Virginia Wolf Blog
 excerpt: "A Room of One's Own"
 author: jose-rojas
 pullquote:
---
+---
 
 “A Room of One’s Own” by Virginia Woolf introduces the interpretation of creativity through her point of view. Throughout the excerpt, she presents before the 18th century, why women couldn’t write fiction. Likewise, the authors may have impacted literature within time if it was an opportunity. Evening, women would be highly accomplished within their writing through their style and its theme. Instead, society would be limited to women and patients waiting to take on the opportunity. Mainly, she points out that they set up to fail After all, Virginia is ambitious to express the pain within the history of women into the ability to create through writing. And, she reflects the understanding through her interpretation.  
 1. From the summary and analysis, I can agree with the author. Virginia provides facts on creating and becoming an artist. From reading multiple times, I have understood Viginia's idea and I have resonated with it. In a way, the essay reflects how they interpret art and have to criticize an artist's work. In addition, the essay provides me with a mindset that understands creativity and someone's work. In technical, I will be empathic toward the project and its message.
