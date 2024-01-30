@@ -1,5 +1,10 @@
-Wade Hall 
-"Against Interpretation" by Susan Sontag 
+---
+layout: post
+title: “Against Interpretation”
+excerpt:   "Against Interpretation"
+author: wade-hall
+pullquote:  "Thus, interpretation is not (as most people assume) an absolute value, a gesture of mind situated in some timeless realm of capabil- ities."
+---
 
 Few bullet points to start out-  
 
