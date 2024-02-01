@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: [Federici Article Response]
+title: Federici Article Response
 author: anna-wrasse
 ---
 
