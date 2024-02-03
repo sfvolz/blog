@@ -1,3 +1,4 @@
+---
 layout: post
 title: An interpretation of "The Nested Precarities of Creative Labour"
 excerpt: An interpretation of an article that talks about the uncertainties of creative labor on social media
