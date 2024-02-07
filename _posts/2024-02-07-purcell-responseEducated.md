@@ -6,7 +6,7 @@ author: sean-purcell
 pullquote:
 ---
 
-I want to start this blog post by expressing how well Sara summarizes and reflects on Alfie Kohn's essay "What it Means to Be Well Educated". From Sara's post:
+I want to start this blog post by expressing how well [Sara's blog post](https://x151creativity.github.io/blog/2024/01/25/thompson-welleducated.html) summarizes and reflects on Alfie Kohn's essay ["What it Means to Be Well Educated"](https://www.alfiekohn.org/article/mean-well-educated-article/#:~:text=To%20be%20well%2Deducated%2C%20then%2C%20is%20to%20have%20the,sure%20that%20learning%20never%20ends.&text=*%20The%20standard%20retort%20from%20the,to%20particular%20items%20of%20knowledge.). From Sara's post:
 
 >Alfie Kohn urges his readers to rethink their definition of a “well-educated person”. Instead of generalizing the term and giving it one simple definition, he suggests that we allow “well-educated” to be defined individually. When we look at it, each person qualifies differently: some people define it through attending top schools, while others define it based on whether a person continues to learn and educate themselves throughout their life. Furthermore, someone else could even define it based on the career or power that they hold in society. Ultimately, Kohn wants his readers to understand that the term “well-educated” is subjective, and we must allow it to stay that way.
 

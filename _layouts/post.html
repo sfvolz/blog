@@ -15,8 +15,8 @@ format: post
 
 				{% if page.image %}<img class="article-image float-right thumbnail" src="{{ site.baseurl }}{{ site.urlimg }}{{page.image}}">{% endif %}
 				<!--page start-->
-				{{ page.title }}
-				By {{ page.author}}
+				<h5>{{ page.title }}<br>
+				By {{ page.author}}</h5>
 				{{ content }}
 				<!--page end-->
 			</div>
