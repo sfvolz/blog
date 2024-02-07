@@ -10,13 +10,13 @@ The Shakespeare's sister excerpt we read from Virginia Woolf's *A Room of One's 
 
 These arguments are not natural, but instead are made through a tangled confluence of history and culture. What Woolf's essay helps point to is that certain absences in the canon become understood as an essentialist lack (the assumption that women can't or shouldn't write), but which are in fact the result of cultural biases. Woolf's narrative about Judith Shakespeare points out that *no matter her genius, the societal structures around women made it impossible to be published.*[^1]
 
-I describe this as a bit of context to the piece, and to bring in Rio and Jose's responses. Rio, in his blog post, describes the impossible double bind which Woolf illustrates, writing,
+I describe this as a bit of context to the piece, and to bring in Rio and Jose's responses. Rio, in [his blog post](https://x151creativity.github.io/blog/2024/01/25/Walkine-VirginiaWolf.html), describes the impossible double bind which Woolf illustrates, writing,
 
 >I like how Wolf started off explaining how women weren’t allowed to do anything, but the societal role given to them but then goes off into explaining what would happen if they were given the possibility to write. In that time and era, it was so heavily influenced and determined that even if a women escaped her household to try her dreams of acting, or writing, or etc. she would still be denied immediately upon her arrival. . . I was thinking about what women would have been able to do if given the opportunity or if they were to escape societal norms what would the men have done. Would they try and stop the women from sharing power? Would they slowly allow women to do these educational practices?
 
 It is important to note that in the century since Woolf was writing, researchers have been unearthing and praising the work of women, and thinking about the ways women's knowledge systems may differ from western academic systems.[^2] What women did was still create, within the confines of the culture or against the cultural norms. A minor critique for Woolf might be that while she is writing in defense of women, she is still slipping into her own socially constructed biases.
 
-In Jose's post, he describes a particularly enlightening passage:
+In [Jose's post](https://x151creativity.github.io/blog/2024/01/26/Rojas-VirginniaWoolf.html), he describes a particularly enlightening passage:
 
 >Another moment of reading, I spot a quote that hit me. I was questioned about his interrogation and conscious was “Sir, a woman’s composing is like a dog’s walking on his hind legs. It is not done well, but you are surprised to find it done at all.”’ Again, this quote is not only sexist but awful interpertation towards Judith. From reading the possibility that women can do in the resistance instead of being prejudged and treated differently because of their indifference.
 
