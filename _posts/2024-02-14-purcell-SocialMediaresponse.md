@@ -1,0 +1,29 @@
+---
+layout: post
+title: “Feedback on The Nested Precarities of Creative Labor”
+excerpt: 
+author: sean-purcell
+pullquote:
+---
+
+Before I go into my responses, I want to describe the kind of precarity which I am feeling right now, which I worry are already present in today's job market. Most academic labor is precarious: most universities hire adjuncts and non-tenured lecturers to teach their classes, most contracts are non-renewing, and many times the positions can be discarded as schools adjust to new leadership, the whims of the board of trustees, and the enrollment in classes. At the end of every school year, I find myself on the job market at IU, competing with my colleagues for an ever shortening line of potential student academic appointments (SAA), which pay just enough to get by. I am currently on the job market, applying for positions that will get at least a hundred other equally qualified applicants, or for grants with hundreds of applicants fighting for a few meager fellowships.
+
+I felt this same precarity when I wanted to work in a creative industry: there are far more film production students graduating then there are jobs for them. That industry values unpaid work (and has been sued in the past for exploiting interns), and as we are going to cover in class later this semester tends to reward the top earners and leave the rest of the workforce to make do as best they can.
+
+Precarity is especially exacerbated by the programs and algorithms that companies use to filter their job posts. Many people won't get past the resume phase, because they don't have their information laid out correctly for the computer to process it. The opacity of the hiring process, which feels like throwing resumes into a void, means that there is little to feedback on whether your materials are working, or whether or not you are qualified.
+
+I bring this up because I see a lot of echoes of the same problems in the ways creators are treated on social media: there is no feedback from the platforms on which they work, and the anxiety which is built from it compounds into a constant stress for these workers. If your income relies on these platforms, when people are shadowbanned, it isn't just the visibility of the creator which is hurt, it's the ability to pay rent. [Luca's post summarizes this](https://x151creativity.github.io/blog/2024/02/05/arive-postone.html):
+
+>The notion of algorithmic precarity emerges as a key aspect of the response. Creators are not only adapting to the ever-changing features of platforms but also grappling with the inscrutable algorithms governing visibility. The opacity of these systems introduces a condition of perpetual uncertainty, where creators must anticipate and navigate algorithmic shifts to maintain their visibility. This aligns with the broader theme of platform capitalism, where creators become enlistees in the pursuit of attention, catering not only to audiences and advertisers but primarily to the platform companies wielding significant power.
+
+Luca's description of the problems presented by the article is spot on, and it resonates with a challenge which Elizabeth describes (in her blog post)[https://x151creativity.github.io/blog/2024/02/03/doulas-nested-precarities-creative-labor-social-media.html]:
+
+>However, it’s interesting to think about what the platform actually owes the creator. It’s true that the platform would be out of business if there were no creators or followers, so the platform does need the creators. But the creators also use the platforms for their own purposes. They don’t care about Instagram making more money, so long as Instagram continues to exist for the creator’s own business purposes. The same is true in the reverse; Instagram doesn’t care about the creator’s success, as long as Instagram still has creators to keep followers on the site.
+
+Elizabeth's description of how accountability is deflected (how it is shared by both creator and platform), to very productive in the ways we are meant to buy in and engage with social media. The fact that each rely on each other, but that there are no mechanisms to speak between creators and the platforms means that there is little buy in apart from either side.
+
+I want to finish with [Khushi's post](https://x151creativity.github.io/blog/2024/02/02/Monga-NestedPrecaritiesofCreativeLAbour.html), because she engages with a problem of work-life balance, writing: 
+
+>For a content creator, social media presence is their livelihood, and they work with their utmost potential and effort to be good at their work, but I believe that work-life balance is given utmost importance in every other career, and thus even influencers must try and maintain it in their life. Having to maintain a certain engagement and number of followers is justified, for one pursuing this as their profession, but ensuring that it doesn’t begin to hamper one’s emotional, financial, and mental story is a crucial aspect of maintaining a healthy ecosystem and a fulfilling, satiable, and happy personal life.
+
+What strikes me here is the repercussions of how the labor is structured: without conversation and transparency, the precarity which is discussed has *meaningful repercussions on the lives of creators*. Creators have to mine their own lives for potential value, making the personal into a well from which their livelihood might depend. (A note here too is that the authors of this paper avoid a bigger issue regarding the streams of toxicity and abuse that is directed at creators, and especially female creators, which interferes with the prospect of continuing this kind of work.) Absence in accountability and conversation with the platforms also means that these spaces can be directly harmful for those who are working on them (and upon which much of those platform's engagement depends).
