@@ -6,6 +6,8 @@ author: Takamoto-Tina
 pullquote: The author wants us to fully understand the connections between racial issues, personal struggles, and art.
 ---
 
+<h1>Open Wounds</h1>
+
 <h2> 1. What is the "thesis"? </h2>
 
  <p> The main point of the chapter is about how a person's sickness, their background, and working together in art all affect each other and are connected. It's about the author's own story of her friend who was sick with lymphoma and how they worked on art together. This story shows how their different backgrounds and the experience of dealing with sickness changed their view of life and art. </p>
