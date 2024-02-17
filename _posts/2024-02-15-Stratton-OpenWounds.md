@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection on Takemoto's Open Wounds
-excerpt: An Analysis on Takemoto's Open Wounds
+excerpt: Takemoto’s methods of replication only leads her to more pain, and she still can never fully grasps what Angela is going through
 author: Wyatt Stratton
 ---
 "Open Wounds" is a story about the author, Tina Takemoto, and her friend Angela dealing with illness. As Angela undergoes chemotherapy, Takemoto becomes deeply involved in their shared project. Takemoto makes efforts to replicate the emotions and physical changes that Angela’s is going through, but she loses herself when doing so. Takemoto goes so far and even hospitalizes herself when trying to replicate how Angela is feeling. The narrative revolves around the consequences of this act, raising questions about trauma, identity, and ethical responsibility. 
