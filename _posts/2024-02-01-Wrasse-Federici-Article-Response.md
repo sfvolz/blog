@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Federici Article Response
-author: anna-wrasse
+author: anna
 ---
 
 In the New York Times’ article, “The Lockdown Showed How the Economy Exploits Women. She Already Knew,” Jordan Kisner interviewed Silvia Federici about how the pandemic revealed issues for which she had already been attempting to raise awareness for several decades: the issues that arise when undervaluing unpaid, domestic labor. 
