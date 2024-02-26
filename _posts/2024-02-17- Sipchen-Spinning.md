@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spinnging Response
-author: John-Sipchen
+author: john-sipchen
 ---
 
  Spinning By: Tillie Walden
