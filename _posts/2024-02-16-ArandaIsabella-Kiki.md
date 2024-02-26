@@ -1,8 +1,8 @@
 ---
 layout: post
-title: “[Kiki Deliever Service: The Millennial Starving Artist]”
-excerpt: “[College students relating to Kiki and her burnouts]”
-author: [Youtube: The Take]
+title: “Kiki Deliever Service: The Millennial Starving Artist”
+excerpt: “College students relating to Kiki and her burnouts”
+author: isabella-aranda
 ---
 Kiki’s Delivery service parallels to creativity to modern lives. In the film Kiki is a 13-year-old witch ready to be on her own. Her parents are supportive but also let her know if it doesn’t work out, she can come back. Kiki has no intension of it not working out. She’s optimistic and believes that she can handle it, without even knowing what she’s aiming for, but aiming so an experience that’s new to her and makes her feel passion. We see her excitement in exploring and settling in the town that she feels self-conscious about because she’s left on her own with no one she feels can relate with her. The people her age is seemed to be enjoying their time shopping and driving around in cars while Kiki must worry where she’ll stay and where her next meal comes from. At her age she must balance a budget and understand money. 
 
@@ -13,4 +13,5 @@ As a college student, we are faced trying to discover “why are here?” and it
 A college can relate to Kiki because she’s young and has no experience. Being a college student leads to the mindset of being self-conscious, it’s an off feeling when starting new things as an adult, ultimately there’s a chance of failure. What’s interesting about Kiki is that she’s able to fly and turn her special skill into a service.  Like how we turn our work into a way to modernize it. To make it enjoyable, verses living without it. When Kiki’s artist friend is involved, she’s able to inform Kiki that this feeling is normal. They bond that they have a something that make them passionate and admit that it’s difficult when they live without. Kiki is pushed to her limits and loses track of why she came to the town in the first place. She knew she loves flying but didn’t have a plan with it. Same as a college student that we don’t have a guaranteed plan, more we have hope. 
 
 I found it interesting in the video it’s mentioned that 10% of arts degrees are used for art. Due to not finding a career in their degree. Just so they can do more skills and how to do what a person loves. In society it’s pushed to work and not do what you love so you can just be a worker.  Kiki’s burnout is when she hits depression. Her burnout causes her not to fly. A solution was she needs to take a break from her skill so that way it’s not stuck and lose her passion. She’s able to find her passion again when she sees Tomboy. She sees she has value in this situation. She finds her inspiration. Kiki can do what she loves because she has her inspiration. Her inspiration leads her and she’s important. Art is important and as a college student it can feel blinded but there needs to be experience and time to see the importance. Passion is always there, but there’s a drive that comes with as well. 
+
 ![image](https://github.com/X151Creativity/blog/assets/156359054/a87b50bc-6a11-4947-9b5d-91cc03935743)
