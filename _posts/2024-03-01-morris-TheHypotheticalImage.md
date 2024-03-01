@@ -1,10 +1,7 @@
 ---
 layout: post
 title: A complex history to such a simple task
-excerpt: 
 author: Cybernetic Forests
-pullquote:
-image:
 ---
 
 Response to part one of the article:
