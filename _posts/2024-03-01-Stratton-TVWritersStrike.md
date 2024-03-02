@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection on the TV writers strike 
-excerpt: 
+excerpt: There needs to be a change in the way that writers are treated
 author: wyatt-stratton
 ---
 The TV writers strike is an issue that is still being discussed till this day. There has been a significant change in the way that television decides to broadcast their shows. In the modern era, we are seeing a very big shift from watching shows on television to watching them on different streaming platforms, such as Netflix or Hulu. As a result of this shift, writers have to work harder to find a job and maintain a job. There is less work for writers to do, and they find themselves moving jobs very frequently. Additionally, there has been a lack of residuals for the writers who are creating these shows. In 1960, there was a big writers strike concerning the lack of residuals for the writers of these shows. Certain writers were feeling like they were being underpaid and treated unfairly when the show that they created started to gain popularity. As a result of this strike, writers started to gain more residuals and started to get the credit that they deserve. However, after many years of development in the television industry, there is still an issue with how writers are being treated. Writers are getting underpaid for the work that they are doing towards these shows, and they are not getting the respect or the pay that they deserve.
