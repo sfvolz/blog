@@ -1,0 +1,22 @@
+---
+layout: post
+title: Feedback on "Open Wounds"
+excerpt: 
+author: sean-purcell
+---
+
+Tina Takemoto's essay "Open Wounds" is a messy, emotive essay, that tackles a seeming impossibility: the ability to relate to someone who is gravely ill. In Wyatt's blog post, he succinctly summarizes Takemoto's project.
+
+>This attempt at replicating Angela’s experience is quite interesting, and It appears to be very confusing at first glance. Although I believe this is the closest she can get to replicating the physical pain and suffering that Angela has been going through, I still am not convinced that Takemoto can replicate the same feeling and emotions that Angela has been going though in Chemo. While Takemoto is trying to put herself in Angela’s shoes, you can never fully replicate the pain and suffering someone experiences when going through this type of illness. 
+
+There is a grasping in Takemoto's work, one which she tries to articulate at a nexus of pain, loss, sickness, and self. Wade's blog post engages with this impossibility of connection, writing of the importance of experience, identity, resilience, and memory, where differing perspectives and histories (all with their own wounds) needs to be processed and reflected on. What draws me to her work is that she is not engaging with these ideas like they are solved, but instead as a *process*. In earlier weeks, we talked about play as a means to process trauma and how that overlaps in some ways with the way we might be able to use creativity to reflect on our lives and situations. Eissa writes in his blog post,
+
+>I get the idea of doing risk-taking and benefit-seeking creative projects with friends. Although I haven't experienced anything as severe or dangerous as the scenarios detailed in the chapter, I am aware that taking on creative tasks can result in unexpected events.  In my experience, these activities often involve the creative generation and processing of information, which occasionally produces unexpected outcomes. In the same way that the author's connected creative work during a difficult period provided both healing and danger.
+
+Eissa's formulation that creativity "occasionally produces unexpected outcomes" is really helpful to see how the art practice informs Takemoto's work. She cannot write about this series of works without first having done the work. Some of this work resulted in a great deal of personal harm (which Takemoto reflects on and which I would argue we should learn from so we don't accidentally harm ourselves in our own work). The value of creative work comes from these unforeseen possibilities which emerge organically out of working with and working through ideas.
+
+Sara's blog post reflects on how the creative process became carried away. She writes,
+
+>Takemoto’s story as a whole resonated with me, but her expression of confusion of “How did I get here?” after her trip to the emergency room is the moment that stuck out to me the most. In our lives we can get very caught up in a cycle and until we are forced to step out of it, we don’t realize how much harm it was causing us. That could be schoolwork, projects, stress, relationships, friendships, almost anything. . . .  Takemoto was doing what she loved with who she loved and yet she went through that same process of what some would call burnout. She put so much effort and so much of herself in this project and her friendship with Ellsworth that there was nothing left but pain for her at the end. She never stopped to process her own emotions or be her own person, which she learned was necessary in order to create art successfully. Takemoto’s scars have now become their own work of art, visually expressing the complexities of creativity, collaboration, and love.
+
+The process of working through can sometimes be found in looking back. It is so hard to reflect in the moment, so much as reflect in the aftermath: after the class, or degree, or breakup, or trauma. The idea which these blog posts are circling around is a notion called **self reflexivity**--a means of looking back at one's past and trying to be honest about it, reflect on it, and grow from it. Takemoto's self-reflexive writing comments on the mistakes of her process (the self-immolating harm), and the ways it came as an expression of incomprehensibility. She was unable to relate to her gravely ill friend, and tried successfully or otherwise to process this through her collaborative work.

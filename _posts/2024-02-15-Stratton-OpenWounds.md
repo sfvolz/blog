@@ -5,6 +5,7 @@ excerpt: Takemoto’s methods of replication only leads her to more pain, and sh
 author: wyatt-stratton
 ---
 "Open Wounds" is a story about the author, Tina Takemoto, and her friend Angela dealing with illness. As Angela undergoes chemotherapy, Takemoto becomes deeply involved in their shared project. Takemoto makes efforts to replicate the emotions and physical changes that Angela’s is going through, but she loses herself when doing so. Takemoto goes so far and even hospitalizes herself when trying to replicate how Angela is feeling. The narrative revolves around the consequences of this act, raising questions about trauma, identity, and ethical responsibility. 
+
 In Takemoto’s project, she takes efforts to try and replicate Angela’s experiences. In her first act, she uses jam to try and replicate a scar on Angela’s chest from surgery. Although the replication appears to be accurate in the photo, I do not believe that it is a successful attempt at trying to replicate the emotions that she is going through. 
 <br>
 <br>
@@ -15,4 +16,5 @@ In addition with her photos to replicate Angelas physical appearances, Takemoto 
 <br>
 <br>
 As Takemoto reflects on her actions, she recognizes the limitations of her attempts to fully understand Angela's emotions and experiences. Cutting her hair and engaging in other efforts are ways for Takemoto to catch glimpses of Angela's journey, attempting to bridge the gap between their realities. The narrative highlights the challenges in truly grasping the depth of pain and suffering experienced by someone going through such a difficult illness. Takemoto acknowledges that, while her efforts are sincere, they can only offer a partial understanding of Angela's emotions. Takemoto's journey with Angela reveals the pain of navigating illness, emphasizing the significance of genuine support, even when faced with limitations in replicating the full depth of someone else's emotions.
+
 Overall, I am not sure what to make of Takemoto’s project. I understand that she is trying to help her friend cope with her illness, but I am not sure if this is an effective way of doing so. Her methods of trying to recreate Angela’s experiences only leads to more pain and suffering, and even puts Takemoto in the hospital. I feel that Takemoto losses touch with reality for a second when focusing on this project. If Takemoto truly knows that she will never be able to replicate Angela’s experiences and emotions, then what is that point in trying? Takemoto’s methods of replication only leads her to more pain, and she still can never fully grasps what Angela is going through. 
