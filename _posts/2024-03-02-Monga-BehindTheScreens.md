@@ -2,6 +2,7 @@
 layout: post
 title: "Behind The Screens"
 excerpt: This blog talks about the precarities and the complexities of lives of writers
+author: khushi-monga
 pullquote:
 ---
 
