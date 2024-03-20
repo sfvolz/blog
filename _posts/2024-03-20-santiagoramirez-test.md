@@ -2,7 +2,7 @@
 layout: post
 title: test
 excerpt: 
-author: carolina-santiagoramirez
+author: carolina-santiago-ramirez
 pullquote:
 image:
 ---
