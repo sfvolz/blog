@@ -7,7 +7,7 @@ pullquote:
 image:
 ---
 
-name: Carolina Santiago Ramirez
+    name: Carolina Santiago Ramirez
 
     website:
 
