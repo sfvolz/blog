@@ -7,13 +7,13 @@ pullquote:
 image:
 ---
 
-    name: Carolina Santiago Ramirez
+name: Carolina Santiago Ramirez
 
-    website:
+website:
 
-    twitter:
+twitter:
 
-    github:
+github: Car0lina53
 
-    bio: Carolina Santiago Ramirez is a graduate of Westfield High School. She is a 21st Century Scholar. She is also a Group Scholar at IU. She is currently Majoring in Elementary Education and Minoring in Spanish.
+bio: Carolina Santiago Ramirez is a graduate of Westfield High School. She is a 21st Century Scholar. She is also a Group Scholar at IU. She is currently Majoring in Elementary Education and Minoring in Spanish.
   
